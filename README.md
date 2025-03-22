@@ -93,8 +93,3 @@ pip install pandas numpy matplotlib
 
 
 
-**License**
-
-This project is licensed under the MIT License. See the LICENSE file for details.
-
-This project provides a comprehensive framework for analyzing cricket player performance using Python. Feel free to explore, modify, and contribute to the project!
